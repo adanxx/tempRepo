@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box-md{
+    padding: 75px 0;
+}
+
+#header{
+    background: #000;
+    color: #fff;
+    height: 400px;
+}
+
+
+#header span{
+    font-size: 23px;
+    font-family: Arial;
+}
+
